@@ -36,6 +36,24 @@ Each plate features:
 
 ---
 
+## 🎮 In-Game Instructions
+
+Once you've installed the mod, follow these steps to apply the Oman license plates to your vehicle:
+
+1. **Launch BeamNG.drive**  
+2. **Spawn any vehicle** from the vehicle selector  
+3. Press `Ctrl + W` to open the **Vehicle Configuration Menu**  
+4. Navigate to:  
+   `Body > License Plate Design` *(or similar, depending on vehicle)*  
+5. From the dropdown, select one of the following:  
+   - `[oman] Private License Plate`  
+   - `[oman] Red License Plate`  
+   - `[oman] Black License Plate`  
+6. **Customize your plate** using the typing field at the bottom of the page:  
+   - Enter your desired plate number (e.g. `AS12345`)  
+   - Click ✔️ the **Apply** button to update the plate in real time
+---
+
 ## 🧠 About the Creator
 
 I’m Sultan, a modder and server architect based in Halban, Oman. I specialize in:
