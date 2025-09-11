@@ -23,7 +23,7 @@ Each plate features:
 
 | Private Plate | Commercial Plate | Race Plate |
 |---------------|------------------|------------|
-| ![Private](red_plate.png) | ![Commercial](yellow_plate.png) | ![Race](black_plate.png) |
+| ![Private](oman_private_plate_background_52-11_d.png) | ![Commercial](oman_red_plate_background_52-11_d.png) | ![Race](oman_black_plate_background_52-11_d.png) |
 
 ---
 
