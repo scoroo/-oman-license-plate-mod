@@ -29,10 +29,11 @@ Each plate features:
 
 ## 📦 Installation
 
-1. Download the `.zip` file from the [Releases](https://github.com/your-repo/releases) section  
-2. Place it in your `BeamNG.drive/mods` folder  
-3. Launch the game and activate the mod in the Mod Manager  
-4. Select your plate type via **Vehicle Config > License Plate Design**
+1. Download the `.zip` file from the [Releases](https://github.com/your-repo/releases) section
+2. Open the folder and take the file licenseplates_oman.zip 
+3. Place it in your `BeamNG.drive/mods` folder  
+4. Launch the game and activate the mod in the Mod Manager  
+5. Select your plate type via **Vehicle Config > License Plate Design**
 
 ---
 
